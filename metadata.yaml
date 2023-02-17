@@ -1,0 +1,31 @@
+_repo: The-ionian-cycle_69940
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tenn, William
+    aliases:
+    - Klass, Philip
+    - Putnam, Kenneth
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '35965'
+    url: http://www.gutenberg.org/2009/agents/35965
+    wikipedia: https://en.wikipedia.org/wiki/William_Tenn
+description: ''
+gutenberg_issued: '2023-02-03'
+identifiers:
+  gutenberg: '69940'
+language: en
+pgterms:marc905: 20220515112323tenn
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStandard Magazines, Inc., $c1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The ionian cycle
+url: http://www.gutenberg.org/ebooks/69940
